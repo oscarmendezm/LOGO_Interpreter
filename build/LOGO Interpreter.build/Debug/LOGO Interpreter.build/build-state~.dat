@@ -1,0 +1,59 @@
+TLOGO Interpreter
+v7
+r0
+t375894677.237705
+cCheck dependencies
+cCompileC "build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/main.o" "/Users/Oscar/Documents/LOGO Interpreter/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Oscar/Documents/LOGO Interpreter/build/Debug/LOGO Interpreter" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Users/Oscar/Documents/LOGO Interpreter/build/Debug/LOGO Interpreter
+t1354201877
+s10592
+
+N/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/LOGO Interpreter.LinkFileList
+c0000000050B77B14000000000000007F
+t1354201876
+s127
+
+N/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/main.o
+t1354201876
+s66992
+
+N/Users/Oscar/Documents/LOGO Interpreter/main.cpp
+c0000000050B77B07000000000000008F
+t1354201863
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies375894676#375894676#0(0"0(0#1#0"17205112320#0"0#
+
+CCompileC "build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/main.o" "/Users/Oscar/Documents/LOGO Interpreter/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s375894676.200343
+e375894676.763729
+r1
+xCompileC
+xbuild/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/main.o
+x/Users/Oscar/Documents/LOGO Interpreter/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Oscar/Documents/LOGO Interpreter/main.cpp375894676#375894676#0(0"0(0#0#48"/Users/Oscar/Documents/LOGO Interpreter/main.cpp17205846272#1486"    cd "/Users/Oscar/Documents/LOGO Interpreter"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/LOGO Interpreter-generated-files.hmap" "-I/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/LOGO Interpreter-own-target-headers.hmap" "-I/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/LOGO Interpreter-all-target-headers.hmap" -iquote "/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/LOGO Interpreter-project-headers.hmap" "-F/Users/Oscar/Documents/LOGO Interpreter/build/Debug" "-I/Users/Oscar/Documents/LOGO Interpreter/build/Debug/include" "-I/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/DerivedSources/x86_64" "-I/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/DerivedSources" -c "/Users/Oscar/Documents/LOGO Interpreter/main.cpp" -o "/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Oscar/Documents/LOGO Interpreter/build/Debug/LOGO Interpreter" normal x86_64
+s375894676.763826
+e375894677.237546
+r1
+xLd
+x/Users/Oscar/Documents/LOGO Interpreter/build/Debug/LOGO Interpreter
+xnormal
+xx86_64
+lSLF07#2@73"Link /Users/Oscar/Documents/LOGO Interpreter/build/Debug/LOGO Interpreter375894676#375894677#0(0"0(0#0#0"4495269520#549"    cd "/Users/Oscar/Documents/LOGO Interpreter"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Oscar/Documents/LOGO Interpreter/build/Debug" "-F/Users/Oscar/Documents/LOGO Interpreter/build/Debug" -filelist "/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/LOGO Interpreter.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Oscar/Documents/LOGO Interpreter/build/Debug/LOGO Interpreter"0#
+

@@ -1,0 +1,117 @@
+TLOGO Interpreter
+v7
+r0
+t375901363.318111
+cCheck dependencies
+cCompileC "build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/main.o" "/Users/Oscar/Documents/LOGO Interpreter/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/baseCommand.o" "/Users/Oscar/Documents/LOGO Interpreter/baseCommand.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Oscar/Documents/LOGO Interpreter/build/Debug/LOGO Interpreter" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Users/Oscar/Documents/LOGO Interpreter/baseCommand.cpp
+c0000000050B79A290000000000000202
+t1354209833
+s514
+i"baseCommand.h"
+i<iostream>
+
+N/Users/Oscar/Documents/LOGO Interpreter/baseCommand.h
+c0000000050B790990000000000000184
+t1354207385
+s388
+i<iostream>
+
+N/Users/Oscar/Documents/LOGO Interpreter/build/Debug/LOGO Interpreter
+t1354208507
+s17216
+
+N/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/LOGO Interpreter.LinkFileList
+c0000000050B7815E0000000000000105
+t1354203486
+s261
+
+N/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/baseCommand-7171438302FD0E5D.o
+t2
+s0
+
+N/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/baseCommand.o
+t1354208507
+s73376
+
+N/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/main.o
+t1354208027
+s70676
+
+N/Users/Oscar/Documents/LOGO Interpreter/main.cpp
+c0000000050B7931A00000000000000EE
+t1354208026
+s238
+i"baseCommand.h"
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies375901363#375901363#0(0"0(0#1#0"4471285056#0"0#
+
+CCompileC "build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/baseCommand-7171438302FD0E5D.o" "/Users/Oscar/Documents/LOGO Interpreter/baseCommand.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s375896223.465669
+e375896223.743526
+r0
+xCompileC
+xbuild/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/baseCommand-7171438302FD0E5D.o
+x/Users/Oscar/Documents/LOGO Interpreter/baseCommand.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/machine/_types.h:34,
+o                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/_types.h:33,
+o                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/_types.h:27,
+o                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h:71,
+o                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/i686-apple-darwin10/x86_64/bits/os_defines.h:61,
+o                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/i686-apple-darwin10/x86_64/bits/c++config.h:41,
+o                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream:44,
+o                 from /Users/Oscar/Documents/LOGO Interpreter/baseCommand.cpp:11:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/i386/_types.h:37: error: two or more data types in declaration of '__int8_t'
+lSLF07#2@63"Compile /Users/Oscar/Documents/LOGO Interpreter/baseCommand.cpp375896223#375896223#0(861"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/machine/_types.h:34,                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/_types.h:33,                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/_types.h:27,                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h:71,                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/i686-apple-darwin10/x86_64/bits/os_defines.h:61,                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/i686-apple-darwin10/x86_64/bits/c++config.h:41,                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream:44,                 from /Users/Oscar/Documents/LOGO Interpreter/baseCommand.cpp:11:/Developer/SDKs/MacOSX10.6.sdk/usr/include/i386/_types.h:37: error: two or more data types in declaration of '__int8_t'1(4@51"Two or more data types in declaration of '__int8_t'375896223#741#120#9(7@77"In file included from /Users/Oscar/Documents/LOGO Interpreter/baseCommand.cpp375896223#18446744073709551615#0#0(6@55"/Users/Oscar/Documents/LOGO Interpreter/baseCommand.cpp375895876#11#0#11#0#0"0(7@83"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream375896223#18446744073709551615#0#0(6@61"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream275368777#44#0#44#0#0"0(7@118"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/i686-apple-darwin10/x86_64/bits/c++config.h375896223#18446744073709551615#0#0(6@96"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/i686-apple-darwin10/x86_64/bits/c++config.h275368778#41#0#41#0#0"0(7@119"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/i686-apple-darwin10/x86_64/bits/os_defines.h375896223#18446744073709551615#0#0(6@97"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/i686-apple-darwin10/x86_64/bits/os_defines.h275368778#61#0#61#0#0"0(7@73"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h375896223#18446744073709551615#0#0(6@51"/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h269241383#71#0#71#0#0"0(7@73"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/_types.h375896223#18446744073709551615#0#0(6@51"/Developer/SDKs/MacOSX10.6.sdk/usr/include/_types.h269241382#27#0#27#0#0"0(7@77"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/_types.h375896223#18446744073709551615#0#0(6@55"/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/_types.h270798294#33#0#33#0#0"0(7@81"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/machine/_types.h375896223#18446744073709551615#0#0(6@59"/Developer/SDKs/MacOSX10.6.sdk/usr/include/machine/_types.h270798284#34#0#34#0#0"0(13@111"Two or more data types in declaration of '__int8_t' in /Developer/SDKs/MacOSX10.6.sdk/usr/include/i386/_types.h375896223#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/i386/_types.h270798316#37#0#37#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/i386/_types.h270798316#37#0#37#0#0"0(0#0#55"/Users/Oscar/Documents/LOGO Interpreter/baseCommand.cpp4601122448#1517"    cd "/Users/Oscar/Documents/LOGO Interpreter"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/LOGO Interpreter-generated-files.hmap" "-I/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/LOGO Interpreter-own-target-headers.hmap" "-I/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/LOGO Interpreter-all-target-headers.hmap" -iquote "/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/LOGO Interpreter-project-headers.hmap" "-F/Users/Oscar/Documents/LOGO Interpreter/build/Debug" "-I/Users/Oscar/Documents/LOGO Interpreter/build/Debug/include" "-I/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/DerivedSources/x86_64" "-I/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/DerivedSources" -c "/Users/Oscar/Documents/LOGO Interpreter/baseCommand.cpp" -o "/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/baseCommand-7171438302FD0E5D.o"1#
+
+CCompileC "build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/baseCommand.o" "/Users/Oscar/Documents/LOGO Interpreter/baseCommand.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s375901307.203122
+e375901307.671419
+r1
+xCompileC
+xbuild/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/baseCommand.o
+x/Users/Oscar/Documents/LOGO Interpreter/baseCommand.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Oscar/Documents/LOGO Interpreter/baseCommand.cpp375901307#375901307#0(0"0(0#0#55"/Users/Oscar/Documents/LOGO Interpreter/baseCommand.cpp4579929744#1500"    cd "/Users/Oscar/Documents/LOGO Interpreter"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/LOGO Interpreter-generated-files.hmap" "-I/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/LOGO Interpreter-own-target-headers.hmap" "-I/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/LOGO Interpreter-all-target-headers.hmap" -iquote "/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/LOGO Interpreter-project-headers.hmap" "-F/Users/Oscar/Documents/LOGO Interpreter/build/Debug" "-I/Users/Oscar/Documents/LOGO Interpreter/build/Debug/include" "-I/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/DerivedSources/x86_64" "-I/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/DerivedSources" -c "/Users/Oscar/Documents/LOGO Interpreter/baseCommand.cpp" -o "/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/baseCommand.o"0#
+
+CCompileC "build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/main.o" "/Users/Oscar/Documents/LOGO Interpreter/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s375900828.431929
+e375900828.433176
+r1
+xCompileC
+xbuild/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/main.o
+x/Users/Oscar/Documents/LOGO Interpreter/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Oscar/Documents/LOGO Interpreter/main.cpp375900828#375900828#0(0"0(0#0#48"/Users/Oscar/Documents/LOGO Interpreter/main.cpp4612628112#1486"    cd "/Users/Oscar/Documents/LOGO Interpreter"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/LOGO Interpreter-generated-files.hmap" "-I/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/LOGO Interpreter-own-target-headers.hmap" "-I/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/LOGO Interpreter-all-target-headers.hmap" -iquote "/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/LOGO Interpreter-project-headers.hmap" "-F/Users/Oscar/Documents/LOGO Interpreter/build/Debug" "-I/Users/Oscar/Documents/LOGO Interpreter/build/Debug/include" "-I/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/DerivedSources/x86_64" "-I/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/DerivedSources" -c "/Users/Oscar/Documents/LOGO Interpreter/main.cpp" -o "/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Oscar/Documents/LOGO Interpreter/build/Debug/LOGO Interpreter" normal x86_64
+s375901307.671484
+e375901307.689564
+r1
+xLd
+x/Users/Oscar/Documents/LOGO Interpreter/build/Debug/LOGO Interpreter
+xnormal
+xx86_64
+lSLF07#2@73"Link /Users/Oscar/Documents/LOGO Interpreter/build/Debug/LOGO Interpreter375901307#375901307#0(0"0(0#0#0"4579929744#549"    cd "/Users/Oscar/Documents/LOGO Interpreter"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Oscar/Documents/LOGO Interpreter/build/Debug" "-F/Users/Oscar/Documents/LOGO Interpreter/build/Debug" -filelist "/Users/Oscar/Documents/LOGO Interpreter/build/LOGO Interpreter.build/Debug/LOGO Interpreter.build/Objects-normal/x86_64/LOGO Interpreter.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Oscar/Documents/LOGO Interpreter/build/Debug/LOGO Interpreter"0#
+
